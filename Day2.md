@@ -3,8 +3,8 @@
 This is Day-2 Progress Report
 
 Status:
-- [ ] a
-- [ ] b
+- [X] functions
+- [ ] importing modules and standard libs
 - [ ] c
 - [ ] d
 
