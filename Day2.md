@@ -4,9 +4,9 @@ This is Day-2 Progress Report
 
 Status:
 - [X] functions
-- [ ] importing modules and standard libs
-- [ ] c
-- [ ] d
+- [X] importing modules and standard libs
+- [X] importing OS
+- [ ] File I/O
 
 Task:
 Continuation of the playist until 26 videos done
