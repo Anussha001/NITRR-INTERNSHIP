@@ -4,8 +4,8 @@ This is the Day 3 progress file
 
 Status:
 - [X] File Objects - Read & Write
-- [ ] b
-- [ ] c
+- [X] Automate Parsing and Renaming Multiple Files
+- [ ] Importing CSV Modules
 
 Tasks:
 The completion of the playlist
@@ -15,3 +15,7 @@ Status:
 
 Update:
 Missed one day should have been Day 4 today
+
+Resources:
+Corey Schafer Playlist
+ChatGpt For doubts 
