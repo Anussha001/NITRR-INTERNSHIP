@@ -5,7 +5,10 @@ This is the Day 3 progress file
 Status:
 - [X] File Objects - Read & Write
 - [X] Automate Parsing and Renaming Multiple Files
-- [ ] Importing CSV Modules
+- [X] Importing CSV Modules
+- [ ] Parsing Names from CSV to HTML
+- [ ] Import DateTime
+- [ ] Scope
 
 Tasks:
 The completion of the playlist
