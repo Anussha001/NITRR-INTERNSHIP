@@ -6,8 +6,8 @@ Status:
 - [X] File Objects - Read & Write
 - [X] Automate Parsing and Renaming Multiple Files
 - [X] Importing CSV Modules
-- [ ] Parsing Names from CSV to HTML
-- [ ] Import DateTime
+- [X] Parsing Names from CSV to HTML
+- [X] Import DateTime
 - [ ] Scope
 
 Tasks:
@@ -22,3 +22,6 @@ Missed one day should have been Day 4 today
 Resources:
 Corey Schafer Playlist,
 ChatGpt For doubts 
+
+Remarks(IF ANY):
+The parsing concept is a bit confusing , checking it from more than one resource
