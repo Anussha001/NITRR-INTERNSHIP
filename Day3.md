@@ -17,5 +17,5 @@ Update:
 Missed one day should have been Day 4 today
 
 Resources:
-Corey Schafer Playlist
+Corey Schafer Playlist,
 ChatGpt For doubts 
