@@ -6,7 +6,7 @@ Status:
 - [X] functions
 - [X] importing modules and standard libs
 - [X] importing OS
-- [ ] File I/O
+
 
 Task:
 Continuation of the playist until 26 videos done
