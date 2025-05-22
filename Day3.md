@@ -3,7 +3,7 @@
 This is the Day 3 progress file
 
 Status:
-- [ ] a
+- [X] File Objects - Read & Write
 - [ ] b
 - [ ] c
 
