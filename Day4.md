@@ -3,10 +3,10 @@
 This is the Day-4 progress report
 
 Task:
-- [ ] a
-- [ ] b
-- [ ] c
-- [ ] d
+- [ ] Sorting List ,Tuples and Object
+- [ ] Errorr handling
+- [ ] Unit testing
+- [ ] Requests
 
 Status:
 Last 6 videos left to complete
